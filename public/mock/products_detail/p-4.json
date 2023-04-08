@@ -1,0 +1,20 @@
+{
+  "id": "p-4",
+  "shopIds": ["s-10","s-11","s-12"],
+  "nearestShop": "s-10",
+  "shop": "Burger4",
+  "tag": "walk-in",
+  "picture": "https://p0.meituan.net/deal/63a28065fa6f3a7e88271d474e1a721d32912.jpg@450w_280h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+  "product": "burger",
+  "description": "sold well",
+  "currentPrice": 19.9,
+  "oldPrice": 48,
+  "saleDesc": "sold 6034",
+  "detail":{
+      "category": "food",
+      "products":[{"name":"food", "quantity":"one", "price":"48"}],
+      "remark":"free"
+  },
+  "validityPeriod": "from 2018-10-20 to 2019-09-15",
+  "purchaseNotes":[]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "p-1",
+  "shopIds": ["s-10","s-11","s-12"],
+  "nearestShop": "s-13",
+  "shop": "Burger1",
+  "tag": "walk-in",
+  "picture": "https://p0.meituan.net/dpdeal/2cb2c6cda4e6272773892eb01c0e0dbd234899.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+  "product": "Burger",
+  "description": "delicious food",
+  "currentPrice": 96,
+  "oldPrice": 398,
+  "saleDesc": "sold 6034",
+  "detail":{
+      "category": "food",
+      "products":[{"name":"burger", "quantity":"one", "price":"398"}],
+      "remark":"free"
+  },
+  "validityPeriod": "use in one year",
+  "purchaseNotes":[]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "p-3",
+  "shopIds": ["s-10","s-11","s-12"],
+  "nearestShop": "s-10",
+  "shop": "Burger3",
+  "tag": "walk-in",
+  "picture": "https://p0.meituan.net/deal/b7935e03809c771e42dfa20784ca6e5228827.jpg.webp@450w_280h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+  "product": "burger",
+  "description": "fresh food",
+  "currentPrice": 19.9,
+  "oldPrice": 48,
+  "saleDesc": "sold 6034",
+  "detail":{
+      "category": "food",
+      "products":[{"name":"burger", "quantity":"one", "price":"48"}],
+      "remark":"free"
+  },
+  "validityPeriod": "use in two months",
+  "purchaseNotes":[]
+}

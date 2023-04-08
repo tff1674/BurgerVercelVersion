@@ -1,0 +1,38 @@
+.comment__wrapper {
+    background-color: rgb(243, 239, 239);
+    margin: 20px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.comment__detail {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.name {
+    margin-left: 10px;
+}
+
+.content {
+    margin-left: 20px;
+}
+
+.seperate {
+    width: 100%;
+    background-color: white;
+    height: 1px;
+    margin-top: 10px;
+}

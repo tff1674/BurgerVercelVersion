@@ -1,0 +1,26 @@
+.content {
+    padding: 10px;
+}
+.star-area {
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+}
+
+.star-item {
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/gray-star.png');
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.star-item-light {
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/light-star.png');
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+}

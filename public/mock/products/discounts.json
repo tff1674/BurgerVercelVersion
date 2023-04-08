@@ -1,0 +1,29 @@
+[
+    {
+        "id": "p-100",
+        "shopId": "s-100",
+        "shop": "Burger1",
+        "product": "Burger",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "https://p0.meituan.net/deal/d7995a213f7b21bc7a5e2cf760a5a14187630.jpg.webp@120w_90h_1e_1c_1l|watermark=1&&r=1&p=9&x=20&y=20"
+    },
+    {
+        "id": "p-101",
+        "shopId": "s-101",
+        "shop": "Burger2",
+        "product": "Burger",
+        "currentPrice": 9.9,
+        "oldPrice": 15,
+        "picture": "https://p0.meituan.net/deal/a151cd13fe4354ce9f8203628011a45462287.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+    },
+    {
+        "id": "p-102",
+        "shopId": "s-102",
+        "shop": "Burger3",
+        "product": "Burger",
+        "currentPrice": 9.9,
+        "oldPrice": 15,
+        "picture": "https://p1.meituan.net/deal/3d1f36bfbcb98f867c6cdb1544294d7348296.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+    }
+]

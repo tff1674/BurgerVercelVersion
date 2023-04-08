@@ -1,0 +1,20 @@
+{
+  "id": "p-7",
+  "shopIds": ["s-10","s-11","s-12"],
+  "nearestShop": "s-10",
+  "shop": "KFC",
+  "tag": "walk-in",
+  "picture": "https://p1.meituan.net/deal/a5d9800b5879d596100bfa40ca631396114262.jpg.webp@450w_280h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+  "product": "burger",
+  "description": "",
+  "currentPrice": 19.9,
+  "oldPrice": 48,
+  "saleDesc": "sold 6034",
+  "detail":{
+      "category": "food",
+      "products":[{"name":"burger", "quantity":"one", "price":"98"}],
+      "remark":"free"
+  },
+  "validityPeriod": "from 2018-10-20 to 2019-09-15",
+  "purchaseNotes":[]
+}
